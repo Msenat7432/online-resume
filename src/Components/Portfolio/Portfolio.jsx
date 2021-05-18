@@ -2,7 +2,7 @@ import React from 'react';
 import Quote from '../../images/quote.png'
 import NBA from '../../images/Game.png'
 import AM from '../../images/am.png'
-import Bon from '../../images/bon.png'
+import Vol from '../../images/Max-vol.png'
 
 import "./portfolio.scss"
 
@@ -29,6 +29,10 @@ const Portfolio = () => {
                  <div className="item">
                 <img src={AM} alt="AM" />
                 <a href ="https://am-commerce-frontend.herokuapp.com/"> AM-Commerce</a>
+                </div>
+                 <div className="item">
+                <img src={Vol} alt="MaxVolume" />
+                <a href ="https://msenat7432.github.io/Max-volume1/"> Max Volume</a>
                 </div>
                 
             </div>

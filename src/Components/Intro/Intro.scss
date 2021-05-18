@@ -5,37 +5,28 @@
 
 
     .left{
-      flex:0.5;
-       border-radius: 0%;
-        overflow: hidden;
+      flex:0.4;
+      border-radius: 0%;
+      overflow: hidden;
       
-    
-   
-        
-        .imgContainer{
-      width: 1000px;
+    .imgContainer{
+      width: 800px;
       height: 900px;
-    //   background-color:#8585a3  ;
       background-image: linear-gradient( to top, #8585a3 0%, #96cfe2 100%);
       border-radius: 50%;
       display: flex;
       align-items: flex-end;
       justify-content: center;
       float: right;
-           
-
         }
 
         .img{
-            height:90%;
-            
-            
-            
+            height:90%; 
         }
 
     }
     .right{
-        flex:0.5 ;
+        flex:0.6 ;
         position: relative;
 
 

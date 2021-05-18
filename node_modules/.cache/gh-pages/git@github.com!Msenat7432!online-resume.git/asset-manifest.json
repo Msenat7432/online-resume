@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/online-resume/public/%20/static/css/main.0eb3c38d.chunk.css",
+    "main.js": "/online-resume/public/%20/static/js/main.81d83603.chunk.js",
+    "main.js.map": "/online-resume/public/%20/static/js/main.81d83603.chunk.js.map",
+    "runtime-main.js": "/online-resume/public/%20/static/js/runtime-main.246b169c.js",
+    "runtime-main.js.map": "/online-resume/public/%20/static/js/runtime-main.246b169c.js.map",
+    "static/js/2.57e4d490.chunk.js": "/online-resume/public/%20/static/js/2.57e4d490.chunk.js",
+    "static/js/2.57e4d490.chunk.js.map": "/online-resume/public/%20/static/js/2.57e4d490.chunk.js.map",
+    "static/js/3.608ee95a.chunk.js": "/online-resume/public/%20/static/js/3.608ee95a.chunk.js",
+    "static/js/3.608ee95a.chunk.js.map": "/online-resume/public/%20/static/js/3.608ee95a.chunk.js.map",
+    "index.html": "/online-resume/public/%20/index.html",
+    "static/css/main.0eb3c38d.chunk.css.map": "/online-resume/public/%20/static/css/main.0eb3c38d.chunk.css.map",
+    "static/js/2.57e4d490.chunk.js.LICENSE.txt": "/online-resume/public/%20/static/js/2.57e4d490.chunk.js.LICENSE.txt",
+    "static/media/Game.01bd4807.png": "/online-resume/public/%20/static/media/Game.01bd4807.png",
+    "static/media/Me_.278050b4.png": "/online-resume/public/%20/static/media/Me_.278050b4.png",
+    "static/media/am.327169f9.png": "/online-resume/public/%20/static/media/am.327169f9.png",
+    "static/media/bon.066f3d0b.png": "/online-resume/public/%20/static/media/bon.066f3d0b.png",
+    "static/media/quote.98114ddd.png": "/online-resume/public/%20/static/media/quote.98114ddd.png",
+    "static/media/shake.7a5f284e.jpeg": "/online-resume/public/%20/static/media/shake.7a5f284e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.246b169c.js",
+    "static/js/2.57e4d490.chunk.js",
+    "static/css/main.0eb3c38d.chunk.css",
+    "static/js/main.81d83603.chunk.js"
+  ]
+}

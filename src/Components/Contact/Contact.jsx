@@ -1,6 +1,9 @@
 import { useState } from 'react';
-import "./Contact.scss"
-import Shake from '../../images/shake.jpeg'
+import "./Contact.scss";
+import Shake  from "../../images/shake.jpeg"
+import Git from '../../images/git.png';
+import Twitter from '../../images/twitter.png';
+import Link from '../../images/linkedin.png';
 
 
 const Contact = () => {
@@ -15,7 +18,19 @@ const Contact = () => {
     return (
         <div className="contact" id = "contact">
              <div className="left">
-        <img src={Shake} alt="" />
+                <div className="imgContainer">
+                    
+                
+        <a href="https://github.com/Msenat7432/Msenat7432" class="git">
+        <img src={Git} alt="" />
+        </a> 
+         <a href="https://twitter.com/ToTheMax20"  >
+        <img src={Twitter} alt="" />
+        </a>
+        <a href="https://www.linkedin.com/in/max-senat-5490361ba/" class="link">
+        <img src={Link} alt=""/>
+        </a>
+        </div>
       </div>
       <div className="right">
         <h2>Contact.</h2>
@@ -29,6 +44,6 @@ const Contact = () => {
     
         </div>
     );
-};
+  };
 
 export default Contact;
