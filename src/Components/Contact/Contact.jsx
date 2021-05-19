@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import "./Contact.scss";
-import Shake  from "../../images/shake.jpeg"
 import Git from '../../images/git.png';
 import Twitter from '../../images/twitter.png';
 import Link from '../../images/linkedin.png';

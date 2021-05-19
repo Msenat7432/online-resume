@@ -12,14 +12,9 @@ function App() {
         <Top menuOpen ={menuOpen} setMenuOpen={setMenuOpen}/>
         <Menu menuOpen ={menuOpen} setMenuOpen={setMenuOpen}/>
       <div className="section">
-   
        <Intro/>
        <Portfolio/>
        <Contact/>
-
-  
-
-      
     </div>
   </div>;
 

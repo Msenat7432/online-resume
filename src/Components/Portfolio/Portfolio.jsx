@@ -32,7 +32,7 @@ const Portfolio = () => {
                 </div>
                  <div className="item">
                 <img src={Vol} alt="MaxVolume" />
-                <a href ="https://msenat7432.github.io/Max-volume1/"> Max Volume</a>
+                <a href ="https://msenat7432.github.io/Max-volume1/"> Max Volume </a>
                 </div>
                 
             </div>

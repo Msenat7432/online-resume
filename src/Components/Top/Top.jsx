@@ -18,7 +18,9 @@ const Top = ({ menuOpen, setMenuOpen }) => {
           </div>
           <div className="itemContainer">
             <Mail className="icon" />
+            <a href="https://mail.google.com/mail/u/0/#inbox">
             <span>Maxsenat7432@gmail.com</span>
+            </a>
           </div>
         </div>
         <div className="right">
